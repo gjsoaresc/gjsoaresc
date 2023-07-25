@@ -1,11 +1,11 @@
-# Hey. I'm Guilherme Jacob! <img src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/wave.gif" width="30px">
+# Hey. I'm Guilherme Jacob! <img src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/wave.gif" width="30px">
 
-<a target="_blank" href="https://www.linkedin.com/in/guilherme-jacob"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/linkedin.svg"></img></a>
-<a target="_blank" href="mailto:gjsoaresc@gmail.com"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/gmail.svg"></img></a>
-<a target="_blank" href="https://twitter.com/gjsoaresc"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/twitter.svg"></img></a>
-<a target="_blank" href="https://open.spotify.com/user/deugavl7d66tu1i366ax1aupj"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/spotify.svg"></img></a>
-<a target="_blank" href="https://discord.gg/XTW52Kt"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/discord.svg"></img></a>
-<a target="_blank" href="https://steamcommunity.com/id/nitecrow/"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/assets/steam.svg"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-jacob"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/linkedin.svg"></img></a>
+<a target="_blank" href="mailto:gjsoaresc@gmail.com"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/gmail.svg"></img></a>
+<a target="_blank" href="https://twitter.com/gjsoaresc"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/twitter.svg"></img></a>
+<a target="_blank" href="https://open.spotify.com/user/deugavl7d66tu1i366ax1aupj"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/spotify.svg"></img></a>
+<a target="_blank" href="https://discord.gg/XTW52Kt"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/discord.svg"></img></a>
+<a target="_blank" href="https://steamcommunity.com/id/nitecrow/"><img align="left" width="22px" src="https://raw.githubusercontent.com/gjsoaresc/gjsoaresc/main/public/steam.svg"></img></a>
 
 <br />
 

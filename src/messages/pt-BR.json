@@ -1,0 +1,257 @@
+{
+  "Header": {
+    "resume": "Currículo"
+  },
+  "SideBar": {
+    "title": "Guilherme Jacob",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "Home": {
+    "title": "Olá, sou o Jacob<span class='text-brand'>.</span>",
+    "subtitle": "Um <span class='font-bold text-brand'>Especilista de TI</span>.",
+    "description": "Engenheiro de software full-stack apaixonado. Especialista em desenvolvimento web e mobile. Motivado a criar experiências perfeitas e adotar tecnologias inovadoras. Vamos nos conectar! 🔗",
+    "know-more": "Saiba mais"
+  },
+  "About": {
+    "title": "Sobre",
+    "t-one": "Olá! Sou Guilherme Jacob, engenheiro de software com quase 10 anos de experiência, dedicado a escrever códigos bem projetados, testáveis e eficientes, utilizando as melhores práticas atuais no desenvolvimento web. A curiosidade me levou a explorar o VB.NET e, desde então, estou em uma jornada para entender o intricado processo de construir software.",
+    "t-two": "Fluente em desenvolvimento web e mobile (MEAN, MERN, React Native, Flutter, Kotlin). Liderei decisões técnicas e migração para NextJS como Tech Lead para clientes e back office.",
+    "t-three": "Além do trabalho, adoro viajar e explorar novos lugares. Também sou um grande fã de música e gosto de tocar guitarra e piano. Me considero um 'foodie' e adoro experimentar novas culinárias.",
+    "t-four": "Tenho uma paixão genuína por explorar tecnologias emergentes e me manter à frente das inovações do setor. Sou impulsionado pelo desejo de impactar positivamente a vida das pessoas por meio do desenvolvimento de software. Meu compromisso em criar experiências de usuário impecáveis e encontrar soluções elegantes para problemas complexos me motiva a buscar crescimento contínuo e enfrentar desafios empolgantes. Vamos nos conectar 🔗",
+    "my-links": "Meus links",
+    "for-fun": "Uso no dia a dia",
+    "for-work": "Uso no trabalho"
+  },
+  "Contact": {
+    "title": "Contato",
+    "description": "Se quiser contactar é só me enviar um e-mail ou me encontrar no"
+  },
+  "Pdf": {
+    "header": {
+      "name": "Guilherme Jacob",
+      "position": "Software Engineer",
+      "place": "Remoto",
+      "city": "São Paulo - Brasil",
+      "linkedin": "https://www.linkedin.com/in/guilherme-jacob/",
+      "github": "https://github.com/gjsoaresc",
+      "email": "gjsoaresc@gmail.com",
+      "phone": "+55 11 9 3204-8686"
+    },
+    "side": {
+      "about": {
+        "title": "Sobre mim",
+        "description": "👋 Olá, sou Guilherme Jacob, um desenvolvedor apaixonado por soluções inovadoras e aprendizado contínuo. Com habilidades versáteis e um espírito solucionador, encontro satisfação em criar soluções criativas que fazem a diferença. \n \n Ao longo da minha carreira, trabalhei em diversos projetos, aprimorando minha capacidade de resolver problemas e colaborando com equipes multifuncionais para alcançar resultados excepcionais. Tenho talento para analisar desafios complexos e encontrar soluções práticas e elegantes que atendam às necessidades dos usuários e objetivos de negócio. \n \n Além do meu conhecimento técnico, sou um comunicador proativo, valorizando o trabalho em equipe e a colaboração. Gosto de trabalhar em conjunto com meus colegas, aproveitando nosso conhecimento coletivo para desenvolver aplicativos robustos e escaláveis. Meu compromisso com código de alta qualidade, combinado com minha atenção aos detalhes, garante que o software que eu desenvolvo seja confiável e fácil de usar."
+      },
+      "education": {
+        "title": "Educação",
+        "items": [
+          {
+            "university": "CEPA - Anapolis",
+            "course": "Desenvolvimento de Sistemas",
+            "firstDate": 2012,
+            "lastDate": 2014,
+            "type": "Técnico"
+          },
+          {
+            "university": "UFC - Universidade Federal do Ceará",
+            "course": "Ciências da Computação",
+            "firstDate": 2014,
+            "lastDate": 2016,
+            "type": "Graduação"
+          },
+          {
+            "university": "FIAP",
+            "course": "Engenharia de Software",
+            "firstDate": 2021,
+            "type": "Graduação"
+          }
+        ]
+      },
+      "languages": {
+        "title": "Idiomas",
+        "items": [
+          {
+            "language": "Português",
+            "level": "Nativo"
+          },
+          {
+            "language": "Inglês",
+            "level": "Avançado"
+          },
+          {
+            "language": "Espanhol",
+            "level": "Avançado"
+          },
+          {
+            "language": "Francês",
+            "level": "Basico"
+          }
+        ]
+      },
+      "skills": {
+        "title": "Skills",
+        "items": [
+          {
+            "title": "Mobile",
+            "techs": ["Flutter", "React Native", "Kotlin", "Swift"]
+          },
+          {
+            "title": "Frontend",
+            "techs": ["Angular", "React", "NextJS", "NX", "Micro Frontend"]
+          },
+          {
+            "title": "Backend",
+            "techs": ["GoLang", "NodeJS", "Java", "C#", "ASP.NET", "Python", "GraphQL", "PHP"]
+          },
+          {
+            "title": "Game Development",
+            "techs": ["Unity", "C#"]
+          },
+          {
+            "title": "Testes",
+            "techs": ["Cypress", "Jest", "JUnit", "Mockito"]
+          },
+          {
+            "title": "Documentação",
+            "techs": ["Swagger", "OpenAPI", "Postman", "Insomnia", "Storybook", "Confluence", "Notion"]
+          },
+          {
+            "title": "DevOps",
+            "techs": ["Docker", "Kubernetes", "Jenkins", "Gitlab CI", "Github Actions"]
+          },
+          {
+            "title": "AWS",
+            "techs": ["EC2", "ELB", "NLB", "S3", "VPC", "TGW", "IAM", "SNS", "SQS"]
+          },
+          {
+            "title": "Database",
+            "techs": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Cassandra", "DynamoDB"]
+          },
+          {
+            "title": "Arquitetura",
+            "techs": ["GCP", "Microservices", "Serverless", "RESTful API", "Event Driven", "Domain Driven Design", "MVVM", "MVC", "Clean Architecture", "SOLID", "Design Patterns"]
+          },
+          {
+            "title": "Outros",
+            "techs": ["Git", "Scrum", "Kanban", "Jira", "Bitbucket", "Github", "Gitlab", "Splunk"]
+          }
+        ]
+      },
+      "references": {
+        "title": "Referências",
+        "description": "Disponível se requisitado."
+      }
+    },
+    "experiences": {
+      "title": "Experiência",
+      "items": [
+        [
+          {
+            "company": "Foundever",
+            "position": "Software Engineer - Tech Lead",
+            "firstDate": "Nov 2022",
+            "lastDate": "Presente",
+            "techs": ["NextJS", "NodeJS", "GoLang", "GraphQL", "NX", "Micro Frontend", "AWS", "Docker"],
+            "description": "Como líder técnico, conduzi a migração do React para o NextJS, aprimorando a plataforma para nossos clientes e backoffice. Com habilidades em AWS, gerenciei buckets S3, pipelines e integração de API RESTful. Orientei uma equipe multifuncional, tomando decisões técnicas cruciais e garantindo a adoção perfeita do NextJS no ambiente NX. Orquestrei o gerenciamento de projetos, incentivando a colaboração e entregando resultados."
+          },
+          {
+            "company": "Itau Unibanco",
+            "position": "Software Engineer",
+            "firstDate": "Jan 2021",
+            "lastDate": "Nov 2022",
+            "techs": ["Java", "C#", "AWS", "Docker", "Kubernetes", "Micro Frontend", "DevOps"],
+            "subs": [
+              {
+                "position": "Software Engineer - Mobile",
+                "firstDate": "Jun 2022",
+                "lastDate": "Nov 2022",
+                "techs": ["Kotlin", "Swift", "Angular"],
+                "description": "Na squad imob, tive um papel desafiador, garantindo e criando funcionalidades para o superapp bancário. Priorizei a acessibilidade em todas as etapas, construindo uma base sólida. Desenvolvi aplicativos móveis robustos, utilizando Kotlin e Swift. Integrei funcionalidades web com webviews Angular. Colaborei ativamente, propondo soluções inovadoras e implementando recursos valiosos. A segurança dos dados do usuário foi sempre uma prioridade máxima."
+              },
+              {
+                "position": "Software Engineer - Frontend",
+                "firstDate": "Jan 2021",
+                "lastDate": "Jun 2022",
+                "techs": ["Angular", "React", "ASP.NET", "NX", "Cypress"],
+                "description": "Minha função foi manter e desenvolver recursos essenciais para investimentos e gerenciamento de contas do segmento Private, entregando projetos de grande escala. Com minha experiência em Angular, React e ASP.NET, explorei todo o potencial dessas tecnologias. Utilizei Module Federation para criar micro frontends, aprimorando a modularidade e a escalabilidade do sistema. Trabalhando em estreita colaboração com equipes multifuncionais, traduzi os requisitos de negócios em interfaces de usuário intuitivas e visualmente atraentes. Sempre priorizei a implementação das melhores práticas de acessibilidade, desempenho e capacidade de resposta, garantindo uma experiência de alta qualidade para os usuários."
+              }
+            ]
+          },
+          {
+            "company": "Banco BV",
+            "position": "Software Engineer",
+            "firstDate": "Nov 2018",
+            "lastDate": "Jan 2021",
+            "techs": ["Java", "Docker", "GCP", "AWS", "Docker", "Kubernetes", "Micro Frontend", "DevOps"],
+            "subs": [
+              {
+                "position": "Software Engineer - Mobile",
+                "firstDate": "Jun 2020",
+                "lastDate": "Jan 2021",
+                "techs": ["Flutter", "Kotlin", "Swift"],
+                "description": "Como parte da fundação do projeto, estabeleci a base de um novo aplicativo bancário, integrando com sucesso o Salesforce SDK e o Firebase SDK. Fui responsável pela criação dos componentes da biblioteca de design e colaborei na implementação do micro frontend. Entreguei código escalável e de fácil manutenção, com foco em inovação e experiências excepcionais para os usuários. Busco constantemente as melhores práticas e elevo os padrões de qualidade do projeto."
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "company": "Banco BV",
+            "subs": [
+              {
+                "position": "Software Engineer - Frontend",
+                "firstDate": "Nov 2018",
+                "lastDate": "Jun 2020",
+                "techs": ["Angular", "React", "NodeJS", "Java", "Cypress"],
+                "description": "Na squad de onboarding de cartão de crédito e selfcare, mantive e desenvolvi novas funcionalidades. Liderei com sucesso a migração do AngularJS para o Angular 7, otimizando o desempenho do sistema. Criei uma biblioteca de design system e assumi o papel de líder na guilda de frontend. Tenho um histórico sólido de inovação, entrega de código de alta qualidade e promoção da colaboração. Meu objetivo é impulsionar o sucesso do projeto, proporcionando uma experiência excepcional aos usuários."
+              }
+            ]
+          },
+          {
+            "company": "Solera Holdings",
+            "position": "Software Engineer - Fullstack",
+            "firstDate": "Ago 2018",
+            "lastDate": "Nov 2018",
+            "techs": ["React", "NodeJS", "GraphQL", "C#", "ASP.NET", ".NET Core", "Azure", "Micro Frontend"],
+            "description": "Como responsável por criar a base e o boilerplate de uma plataforma de gestão de seguros em uma equipe internacional, integrei microsserviços utilizando NodeJS e C# .NET Core no ambiente Azure. Liderei a seleção e implementação de bibliotecas para estabelecer uma arquitetura de desenvolvimento robusta. Meu compromisso é fornecer código de alta qualidade e impulsionar a inovação para melhorar a funcionalidade e escalabilidade da plataforma. Estou focada em impulsionar o sucesso da empresa por meio de soluções tecnológicas de ponta."
+          },
+          {
+            "company": "Actuar",
+            "position": "Software Engineer - Fullstack",
+            "firstDate": "Dez 2017",
+            "lastDate": "Jul 2018",
+            "techs": ["React", "Angular",  "NodeJS", "GraphQL", "React Native", "Kotlin", "C#", ".NET Core"],
+            "description": "Sob ambiente de startup, liderei o desenvolvimento e a manutenção de novas funcionalidades para uma plataforma de gestão de academias e a construção de uma fintech. Conduzi esforços de migração e arquitetei projetos inovadores. Integrei C# .NET Core com APIs RESTful, garantindo uma funcionalidade perfeita. Mantive um aplicativo React Native, proporcionando experiências excepcionais aos usuários. Sou versátil no gerenciamento de todo o ciclo de desenvolvimento, com foco em escalabilidade, desempenho e soluções inovadoras. Meu objetivo é impulsionar o sucesso da empresa por meio de tecnologias avançadas e entrega de alta qualidade."
+          },
+          {
+            "company": "MelhorKlick",
+            "position": "Fullstack Developer",
+            "firstDate": "Mar 2017",
+            "lastDate": "Dez 2017",
+            "techs": ["React", "Angular", "NodeJS", "GraphQL", "PHP", "Laravel", "Slim Framework", "Wordpress"],
+            "description": "Sob ambiente de agência, liderei o desenvolvimento de projetos para diversos clientes, com foco especial na criação de plataformas internas para o setor imobiliário. Como líder da equipe de frontend, impulsionei a inovação através da adoção de novas tecnologias. Entreguei soluções de alta qualidade, garantindo funcionalidade perfeita e satisfação do usuário. Tenho habilidade comprovada em gerenciar vários projetos simultaneamente e cumprir prazos apertados. Colaborei estreitamente com equipes multifuncionais para entregar resultados excepcionais aos clientes. Meu compromisso é sempre entregar projetos de sucesso, superando as expectativas e proporcionando valor real aos nossos clientes."
+          },
+          {
+            "company": "Plena Accounting",
+            "position": "Fullstack Developer | DBA",
+            "firstDate": "Fev 2016",
+            "lastDate": "Mar 2017",
+            "techs": ["React", "Angular", "NodeJS", "PostgreSQL"],
+            "description": "Criei consultas complexas no PostgreSQL e desenvolvi sistemas de backoffice para contabilidade. Utilizei tecnologias inovadoras para impulsionar a eficiência e agilizar processos. Meu compromisso é fornecer soluções de alta qualidade que atendam aos objetivos de negócios. Meus sistemas robustos e escaláveis otimizam a eficiência e aprimoram as experiências do usuário. Estou sempre buscando maneiras de impulsionar a inovação e aprimorar nossos sistemas."
+          }
+        ],
+        [
+          {
+            "company": "Swiss Genetics",
+            "position": "Fullstack Developer | Web Designer",
+            "firstDate": "Apr 2014",
+            "lastDate": "Fev 2016",
+            "techs": ["PHP", "Wordpress", "C#", ".NET Core", "MySQL", "SQL Server"],
+            "description": "Colaborativamente, projetei e implementei um software de gerenciamento multiplataforma. Criei uma estrutura de banco de dados de fácil manutenção. Investiguei bugs, reproduzi problemas e desenvolvi correções. Modifiquei o software existente para corrigir bugs, atualizar interfaces e melhorar o desempenho. Meu foco foi sempre garantir um software de qualidade e uma experiência aprimorada para os usuários."
+          }
+        ]
+      ]
+    }
+  }
+}

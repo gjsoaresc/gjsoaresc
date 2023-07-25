@@ -1,0 +1,13 @@
+{
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": [
+      "source.organizeImports",
+      "source.fixAll"
+    ],
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "eslint.alwaysShowStatus": true,
+    "files.eol": "\r\n",
+  }
