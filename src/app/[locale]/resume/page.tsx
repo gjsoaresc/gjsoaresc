@@ -1,3 +1,5 @@
+'use client'
+
 import { pick } from 'lodash'
 import { useLocale } from 'next-intl'
 import dynamic from 'next/dynamic'
