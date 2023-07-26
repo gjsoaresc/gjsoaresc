@@ -1,5 +1,3 @@
-'use client'
-
 import { Socials } from '@/components/nav/Socials'
 import { Reveal } from '@/components/utils/Reveal'
 import { SectionHeader } from '@/components/utils/SectionHeader'

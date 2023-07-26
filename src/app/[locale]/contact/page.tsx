@@ -1,5 +1,3 @@
-'use client'
-
 import { Reveal } from '@/components/utils/Reveal'
 import { useTranslations } from 'next-intl'
 import Link from 'next/link'

@@ -10,9 +10,9 @@ const roboto = Roboto({
   subsets: ['latin'],
 })
 
-export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'pt-BR' }]
-}
+// export function generateStaticParams() {
+//   return [{ locale: 'en' }, { locale: 'pt-BR' }]
+// }
 
 export const metadata = {
   title: 'Jacob Costa | Software Engineer',
