@@ -9,7 +9,7 @@ import { useEffect } from 'react'
 
 const Home = () => {
   const router = useRouter()
-  const t = useTranslations(Home.name)
+  const t = useTranslations('Home')
 
   useEffect(() => {
     router.prefetch('/about')

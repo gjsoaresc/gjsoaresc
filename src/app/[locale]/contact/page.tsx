@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { AiFillMail } from 'react-icons/ai'
 
 const Contact = () => {
-  const t = useTranslations(Contact.name)
+  const t = useTranslations('Contact')
 
   return (
     <div className="wrapper m-auto text-center">

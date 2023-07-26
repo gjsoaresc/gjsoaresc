@@ -10,9 +10,10 @@ const roboto = Roboto({
   subsets: ['latin'],
 })
 
-// export function generateStaticParams() {
-//   return [{ locale: 'en' }, { locale: 'pt-BR' }]
-// }
+type Props = {
+  children: React.ReactNode
+  params: { locale: string }
+}
 
 export const metadata = {
   title: 'Jacob Costa | Software Engineer',

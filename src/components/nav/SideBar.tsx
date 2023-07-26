@@ -14,7 +14,7 @@ const links = [
 
 export const SideBar = () => {
   const pathname = usePathname()
-  const t = useTranslations(SideBar.name)
+  const t = useTranslations('SideBar')
 
   const path = pathname.split('/').pop()
   const isActive = (href: string) => href.split('/').pop() === path

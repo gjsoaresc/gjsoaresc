@@ -12,7 +12,7 @@ export const Header = () => {
   const { push } = useRouter()
   const pathname = usePathname()
   const locale = useLocale()
-  const t = useTranslations(Header.name)
+  const t = useTranslations('Header')
 
   const path = pathname.split('/').pop()
   const otherLocale = locales.find((l) => l !== locale)

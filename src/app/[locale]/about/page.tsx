@@ -6,7 +6,7 @@ import { AiOutlineArrowRight } from 'react-icons/ai'
 import { Stats } from './components/Stats'
 
 const About = () => {
-  const t = useTranslations(About.name)
+  const t = useTranslations('About')
 
   const styles = {
     aboutText: 'py-2 mb-6 text-lg leading-10 text-white opacity-80',

@@ -4,4 +4,8 @@ const withNextIntl = require('next-intl/plugin')(
 )
 
 /** @type {import('next').NextConfig} */
-module.exports = withNextIntl({})
+module.exports = withNextIntl({
+  experimental: {
+    appDir: true,
+  },
+})
