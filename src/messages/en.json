@@ -148,10 +148,19 @@
       "items": [
         [
           {
+            "company": "MOZ",
+            "position": "Software Engineer - Frontend",
+            "firstDate": "Mar 2023",
+            "lastDate": "Jun 2024",
+            "techs": ["NextJS", "React", "MUI", "NodeJS", "AWS", "Docker", "Typescript"],
+            "description": "As the Front-end engineer, I maintained NextJS projects, optimizing the platform to provide security, scalability and reliability. Leveraging NextJS, NodeJS, Redis, Docker, Terraform, and AWS, I ensured seamless integration and efficient resource management. Using Material-UI (MUI) to enhance the user interface, providing a consistent and modern design across our applications within a Design System."
+          },
+          {
             "company": "Foundever",
-            "position": "Software Engineer - Tech Lead",
+            "position": "Software Engineer - Frontend",
             "firstDate": "Nov 2022",
-            "techs": ["NextJS", "NodeJS", "GoLang", "GraphQL", "NX", "Micro Frontend", "AWS", "Docker"],
+            "lastDate": "Mar 2023",
+            "techs": ["NextJS", "React", "MUI", "NodeJS", "GraphQL", "NX", "Micro Frontend", "AWS", "Docker"],
             "description": "I spearheaded the migration from React to NextJS for the platform utilized by both clients and the backoffice. With expertise in AWS, I managed S3 buckets, pipelines, and RESTful API integration. Guiding a cross-functional team, I made critical technical decisions and ensured seamless adoption of NextJS within NX environment. I orchestrated efficient project management, fostering collaboration and delivering results."
           },
           {
@@ -173,10 +182,12 @@
                 "firstDate": "Jan 2021",
                 "lastDate": "Jun 2022",
                 "techs": ["Angular", "React", "ASP.NET", "NX", "Cypress"],
-                "description": "I maintained and developed new features for user investments and account management. I undertook large-scale projects, leveraging my expertise in Angular, React, and ASP.NET. Employing module federation, I created micro frontends to enhance modularity and scalability. Collaborating closely with cross-functional teams, I translated business requirements into intuitive and visually appealing user interfaces. I implemented best practices for accessibility, performance, and responsiveness."
+                "description": "I maintained and developed new features for user investments and account management. I undertook large-scale projects, leveraging my expertise in Angular, React, and ASP.NET. Employing module federation, I created micro frontends to enhance modularity and scalability. Collaborating closely with cross-functional teams, I translated business requirements into intuitive and visually appealing user interfaces. I implemented best practices for accessibility, performance, and responsiveness. Using Material-UI (MUI) to enhance the user interface, providing a consistent and modern design across our applications within a Design System."
               }
             ]
-          },
+          }
+        ],
+        [
           {
             "company": "Banco BV",
             "position": "Software Engineer",
@@ -195,13 +206,11 @@
                 "position": "Software Engineer - Frontend",
                 "firstDate": "Nov 2018",
                 "lastDate": "Jun 2020",
-                "techs": ["Angular", "React", "ASP.NET", "Cypress"],
+                "techs": ["Angular", "React", "MUI", "ASP.NET", "Cypress"],
                 "description": "Part of the credit card onboarding and self-care. Maintained and developed new features. Led migration from AngularJS to Angular 7. Created a design system library and served as a leader in the frontend guild. Strong track record of driving innovation, delivering high-quality code, and fostering collaboration."
               }
             ]
-          }
-        ],
-        [
+          },
           {
             "company": "Solera Holdings",
             "position": "Software Engineer - Fullstack",
@@ -215,7 +224,7 @@
             "position": "Software Engineer - Fullstack",
             "firstDate": "Dec 2017",
             "lastDate": "Jul 2018",
-            "techs": ["React", "Angular",  "NodeJS", "GraphQL", "React Native", "Kotlin", "C#", ".NET Core"],
+            "techs": ["React", "Angular", "MUI",  "NodeJS", "GraphQL", "React Native", "Kotlin", "C#", ".NET Core"],
             "description": "With the company as a startup, driving the development and maintenance of new features for a gym management platform and a fintech construction. Led migration efforts and architected new projects. Integrated C# .NET Core with RESTful APIs and ensured seamless functionality. Maintained a React Native app, delivering exceptional user experiences. Versatile in managing end-to-end development, with a strong focus on scalability, performance, and innovative solutions."
           },
           {
@@ -223,15 +232,17 @@
             "position": "Fullstack Developer",
             "firstDate": "Mar 2017",
             "lastDate": "Dec 2017",
-            "techs": ["React", "Angular", "NodeJS", "GraphQL", "PHP", "Laravel", "Slim Framework", "Wordpress"],
+            "techs": ["React", "Angular", "MUI", "NodeJS", "GraphQL", "PHP", "Laravel", "Slim Framework", "Wordpress"],
             "description": "With the company as an agency, spearheading the development of projects for diverse clients. Specialized in creating intern platforms for real estate. Led the frontend team, driving innovation with the adoption of new technologies. Delivered high-quality solutions, ensuring seamless functionality and user satisfaction. Proven ability to manage multiple projects simultaneously and meet tight deadlines. Collaborated closely with cross-functional teams to deliver exceptional results for clients."
-          },
+          }
+        ],
+        [
           {
             "company": "Plena Accounting",
             "position": "Fullstack Developer | DBA",
             "firstDate": "Fev 2016",
             "lastDate": "Mar 2017",
-            "techs": ["React", "Angular", "NodeJS", "PostgreSQL"],
+            "techs": ["React", "Angular", "MUI", "NodeJS", "PostgreSQL"],
             "description": "Responsible for creating complex queries using PostgreSQL and developing backoffice systems for accountancy. Proficient in leveraging new technologies to drive innovation and streamline processes. Demonstrated ability to deliver high-quality solutions that meet business objectives. Committed to delivering robust and scalable systems that optimize efficiency and enhance user experiences."
           },
           {

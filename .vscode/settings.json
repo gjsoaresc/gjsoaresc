@@ -10,4 +10,7 @@
     },
     "eslint.alwaysShowStatus": true,
     "files.eol": "\r\n",
+    "i18n-ally.localesPaths": [
+      "src/messages"
+    ],
   }
