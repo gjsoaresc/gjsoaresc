@@ -29,7 +29,8 @@
 </br>
 
 ---
-## ⚡ Technologies and tools 
+## ⚡ Technologies and tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F0DC4E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=7175AA)
@@ -52,6 +53,7 @@
 ---
 
 ## 💼 Frameworks and libraries
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
